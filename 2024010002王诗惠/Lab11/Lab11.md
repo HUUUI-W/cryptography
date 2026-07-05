@@ -1053,7 +1053,7 @@ ls -lh message.txt encrypted_message.bin signature.bin decrypted_message.txt
 
 | 项目 | 你的结果 |
 | :--- | :------- |
-| 原始消息内容（你写入的文字） | |
+| 原始消息内容（你写入的文字） | 这是一条重要消息，需要签名保护。发送者：张三，学号：2024010001"|
 | 密文文件 encrypted_message.bin 大小（字节） | 256|
 | 密文 SHA-256 哈希值（完整的 64 位十六进制） |a7f4c92e8b1234567890abcdef1234567890abcdef1234567890abcdef123456 |
 | 密文 SHA-256 哈希值长度（十六进制字符数） |64 |
